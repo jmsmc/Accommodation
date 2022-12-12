@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Booking Request" max_length="40" name="x_291597_accommo_0_booking_request" sizeclass="3" type="collection">
+        <element label="End date" max_length="40" name="end_date" type="calendar_date_time"/>
+        <element label="Rooms" max_length="4000" name="rooms" type="string"/>
+        <element label="Start date" max_length="40" name="start_date" type="calendar_date_time"/>
+    </element>
+</database>

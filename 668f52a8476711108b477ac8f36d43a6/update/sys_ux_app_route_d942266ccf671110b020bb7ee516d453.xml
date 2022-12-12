@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Accommodation Config">8d42266c476711108b477ac8f36d432c</app_config>
+        <description/>
+        <fields>searchContextConfigId</fields>
+        <icon/>
+        <name>Search Page</name>
+        <optional_parameters>searchTerm</optional_parameters>
+        <order>0</order>
+        <parent_macroponent display_value="Portal App Shell">b66bf1075b31101016fd7c1bf481c7a7</parent_macroponent>
+        <parent_macroponent_composition_element_id/>
+        <route_type>search</route_type>
+        <screen_type display_value="Search Page">dd42266ca4671110aa3e8e407321f153</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-30 16:39:56</sys_created_on>
+        <sys_id>d942266ccf671110b020bb7ee516d453</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search Page</sys_name>
+        <sys_package display_value="Accommodation" source="x_291597_accommo_0">668f52a8476711108b477ac8f36d43a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Accommodation">668f52a8476711108b477ac8f36d43a6</sys_scope>
+        <sys_update_name>sys_ux_app_route_d942266ccf671110b020bb7ee516d453</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-30 16:39:56</sys_updated_on>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=d942266ccf671110b020bb7ee516d453"/>
+</record_update>

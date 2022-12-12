@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Booking Management" max_length="40" name="x_291597_accommo_0_booking_management" sizeclass="0" type="collection">
+        <element label="Accommodation" max_length="32" name="accommodation" reference="x_291597_accommo_0_accommudation" type="reference"/>
+        <element label="Contact" max_length="32" name="contact" reference="customer_contact" type="reference"/>
+        <element label="Room" max_length="32" name="room" reference="sn_wsd_core_room" reference_qual="location_type=4d5eeea847a711108b477ac8f36d43b2^EQ" reference_qual_condition="location_type=4d5eeea847a711108b477ac8f36d43b2^EQ" type="reference"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="contact"/>
+        </index>
+        <index name="index2">
+            <element name="accommodation"/>
+        </index>
+        <index name="index3">
+            <element name="room"/>
+        </index>
+        <index name="index4">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>

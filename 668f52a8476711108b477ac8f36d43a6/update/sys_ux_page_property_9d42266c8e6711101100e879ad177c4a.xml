@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Accommodation">9542266c17671110bf865ba2d4da9248</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Login">1942266c2f6711102948d8fc2950f554</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-30 16:39:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>9d42266c8e6711101100e879ad177c4a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Accommodation" source="x_291597_accommo_0">668f52a8476711108b477ac8f36d43a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Accommodation">668f52a8476711108b477ac8f36d43a6</sys_scope>
+        <sys_update_name>sys_ux_page_property_9d42266c8e6711101100e879ad177c4a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-30 16:39:57</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_291597_accommo_0.9542266c17671110bf865ba2d4da9248.route.chrome_header.1942266c2f6711102948d8fc2950f554</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    },&#13;
+    "publicPage":{&#13;
+       "searchEnabled": false,&#13;
+       "userPrefsEnabled": false,&#13;
+       "menuEnabled": false&#13;
+    }&#13;
+ }</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=9d42266c8e6711101100e879ad177c4a"/>
+</record_update>

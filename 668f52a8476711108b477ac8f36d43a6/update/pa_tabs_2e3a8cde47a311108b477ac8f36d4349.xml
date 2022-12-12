@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA test - New Tab">663a8cde47a311108b477ac8f36d4347</canvas_page>
+        <name>test - New Tab</name>
+        <page display_value="PA test - New Tab">6a3a8cde47a311108b477ac8f36d4345</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-05 16:05:00</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2e3a8cde47a311108b477ac8f36d4349</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Accommodation" source="x_291597_accommo_0">668f52a8476711108b477ac8f36d43a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Accommodation">668f52a8476711108b477ac8f36d43a6</sys_scope>
+        <sys_update_name>pa_tabs_2e3a8cde47a311108b477ac8f36d4349</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-05 16:05:00</sys_updated_on>
+    </pa_tabs>
+</record_update>
